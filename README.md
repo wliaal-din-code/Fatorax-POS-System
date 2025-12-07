@@ -7,10 +7,10 @@
 ### 📸 Screenshots
 <p align="center">
   <img src="Screenshots/login.png" width="45%" alt="Login Screen">
-  <img src="Screenshots/dashboard.jpg" width="45%" alt="Home Screen">
+  <img src="Screenshots/dashboard.png" width="45%" alt="Home Screen">
   <br>
-  <img src="Screenshots/products.jpg" width="45%" alt="Product Management">
-  <img src="Screenshots/sales_report.jpg" width="45%" alt="Sales Reporting">
+  <img src="Screenshots/products.png" width="45%" alt="Product Management">
+  <img src="Screenshots/sales_report.png" width="45%" alt="Sales Reporting">
 </p>
 
 ---
