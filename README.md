@@ -6,11 +6,11 @@
 
 ### 📸 Screenshots
 <p align="center">
-  <img src="screenshots/login.jpg](https://github.com/wliaal-din-code/Fatorax-POS-System/blob/main/Screenshots/login.png)" width="45%" alt="Login Screen">
-  <img src="screenshots/dashboard.jpg" width="45%" alt="Home Screen">
+  <img src="Screenshots/login.png" width="45%" alt="Login Screen">
+  <img src="Screenshots/dashboard.jpg" width="45%" alt="Home Screen">
   <br>
-  <img src="screenshots/products.jpg" width="45%" alt="Product Management">
-  <img src="screenshots/sales_report.jpg" width="45%" alt="Sales Reporting">
+  <img src="Screenshots/products.jpg" width="45%" alt="Product Management">
+  <img src="Screenshots/sales_report.jpg" width="45%" alt="Sales Reporting">
 </p>
 
 ---
